@@ -117,7 +117,7 @@ portfolio-loyd/
 
 1. **Clone o repositório**
 ```bash
-git clone https://github.com/LoydDavyd/portfolio.git
+git clone https://github.com/LoydDavyd/portfolio-loyd.git
 cd portfolio
 ```
 
